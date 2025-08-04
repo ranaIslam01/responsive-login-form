@@ -1,4 +1,3 @@
-
 ## 💡 How to Use
 
 1. Clone or download the repository
@@ -12,7 +11,8 @@
 
 ## 🖼 Preview
 
-*(You can insert a screenshot of the form here if needed)*
+<img width="966" height="635" alt="Screenshot 2025-08-04 173201" src="https://github.com/user-attachments/assets/eca1489c-a689-4034-b4ec-c3b9788ba68d" />
+
 
 ## ✨ Future Improvements
 
